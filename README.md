@@ -8,7 +8,7 @@ I have lived in San Antonio my whole life, I major in Cybersecurity, and play gu
 ## 🎉 Interests
 ![Music](https://img.shields.io/badge/Music-FF6F00?logo=openai&logoColor=white)
 ![Gym](https://img.shields.io/badge/Gym-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+![Guitar](https://img.shields.io/badge/Guitar-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MrNovell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
